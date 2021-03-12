@@ -83,5 +83,5 @@ uint32_t primeNumSave(void)
         b++;
         }
         return 1;
-        //DENEME
+       
 }
